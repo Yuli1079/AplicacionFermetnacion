@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MonitorieoDeFermentacion</string>
+
+    <string name="txtTemp">Temperatura: Leyendo</string>
+    <string name="txtPH">Acidez: Leyendo</string>
+    <string name="txtHum">Humedad: Leyendo</string>
+
+</resources>
